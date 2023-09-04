@@ -90,3 +90,9 @@ width: 170px;
 .Humidity p, .Wind p{
     margin: 0px;
 }
+
+.error{
+    color: rgb(234, 225, 225);
+    text-align: left;
+    margin-right: 10px;
+}
